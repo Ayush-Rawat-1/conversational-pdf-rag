@@ -35,7 +35,7 @@ It allows you to upload PDFs and interactively ask questions about their content
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ayush-Rawat-1/Groq_QA_pdf.git
+git clone https://github.com/Ayush-Rawat-1/conversational-pdf-rag
 cd conversational-pdf-rag
 ```
 
