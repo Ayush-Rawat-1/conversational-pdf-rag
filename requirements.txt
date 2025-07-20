@@ -1,0 +1,13 @@
+langchain
+langchain-community
+python-dotenv
+langchain-text-splitters
+chromadb
+langchain-ollama
+sentence_transformers
+langchain-huggingface
+langchain-chroma
+streamlit
+fastapi
+langserve
+langchain-groq
