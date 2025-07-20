@@ -112,7 +112,7 @@ requirements.txt      # Python Dependencies
 
 ## 🛠️ Requirements
 
-  * Python 3.10+
+  * Python 3.12+
   * Groq API Key
   * Hugging Face Account & Token
 
