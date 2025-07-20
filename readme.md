@@ -1,7 +1,3 @@
-No problem, I'll format the README.md file for you. Here it is, properly formatted for GitHub:
-
------
-
 # Conversational RAG PDF QA with Chat History
 
 A **Conversational RAG (Retrieval-Augmented Generation)** system built using **Python**, **Streamlit**, **Groq API (Gemma 2-9b-it)**, and **LangChain**.
