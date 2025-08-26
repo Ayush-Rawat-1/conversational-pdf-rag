@@ -18,7 +18,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 load_dotenv()
 
 os.environ["HF_TOKEN"] = os.getenv("HF_TOKEN")
-embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L12-v2")
 
 ## set up streamlit app
 st.title("Conversational RAG with PDF and Chat History")
